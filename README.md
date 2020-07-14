@@ -4,7 +4,7 @@ A CLI that displays an animated ASCII [simplex noise](https://en.wikipedia.org/w
 
 ## npx execution
 
-Run the below commands in your terminal to install and execute `show-simplex`.
+Run the below commands in your terminal to install and execute `show-simplex`. ([install Rust and Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) if you haven't already).
 
 ```shell
 cargo install show-simplex
