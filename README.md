@@ -2,7 +2,7 @@
 
 A CLI that displays an animated ASCII [simplex noise](https://en.wikipedia.org/wiki/Simplex_noise) field in your terminal. This repo is a Rust re-implementation of [my Node show-simplex package](https://github.com/neefrehman/show-simplex-cli/).
 
-## npx execution
+## Installation and execution
 
 Run the below commands in your terminal to install and execute `show-simplex`. ([install Rust and Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) if you haven't already).
 
